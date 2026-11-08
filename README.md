@@ -30,7 +30,7 @@ The 30 features represent the mean, standard error, and worst (largest) values o
 ## 3. Project Links
 
 - **GitHub Repository:** [ADD YOUR GITHUB REPOSITORY LINK]
-- **Live Streamlit Application:** [ADD YOUR STREAMLIT APP LINK]
+- **Live Streamlit Application:** [https://ml-assignment-ankit-idid9xl9pmcub5cndi2ijl.streamlit.app/]
 
 ## 4. Machine Learning Models
 

@@ -16,8 +16,7 @@ The 30 features are the **mean**, **standard error (se)** and **worst (largest)*
 
 **Preprocessing:** dropped `id` and the empty column; encoded target (M=1, B=0); stratified 80/20 train-test split (`random_state=42`); `StandardScaler` applied (inside a pipeline) for Logistic Regression, KNN and SVM.
 
-## c. GitHub Repository Link
-`<ADD YOUR GITHUB REPOSITORY LINK HERE>`
+## c. GitHub Repository Link: https://github.com/ankit1aiml/ML-Assignment-Ankit/tree/main
 
 ## d. Models Used
 1. Logistic Regression

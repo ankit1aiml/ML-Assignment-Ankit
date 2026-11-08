@@ -29,7 +29,7 @@ The 30 features represent the mean, standard error, and worst (largest) values o
 
 ## 3. Project Links
 
-- **GitHub Repository:** [ADD YOUR GITHUB REPOSITORY LINK]
+- **GitHub Repository:** [https://github.com/ankit1aiml/ML-Assignment-Ankit/tree/main]
 - **Live Streamlit Application:** [https://ml-assignment-ankit-idid9xl9pmcub5cndi2ijl.streamlit.app/]
 
 ## 4. Machine Learning Models
@@ -85,7 +85,7 @@ These results represent an educational classification experiment and should not 
 ## 8. Repository Structure
 
 ```text
-ML_Assignment_2/
+ML-Assignment-Ankit/
 │
 ├── app.py
 ├── train_models.py

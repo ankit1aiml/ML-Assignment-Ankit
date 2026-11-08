@@ -93,8 +93,6 @@ ML-Assignment-Ankit/
 ├── README.md
 ├── data.csv
 ├── test_data.csv
-├── model_comparison.csv
-├── confusion_matrices.png
 │
 └── model/
     ├── logistic_regression.joblib
